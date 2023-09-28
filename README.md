@@ -1,6 +1,6 @@
 # Fit4Function Repository
 
-Welcome to the Fit4Function repository, provided by Deverman Lab in conjunction with our study "Systematic Multi-Trait AAV Capsid Engineering for Efficient Gene Delivery" published in Nature Communications. This repository encompasses both experimental data and code essential for the replication, validation, and expansion of the Fit4Function study. Source data files necessary to reproduce the manuscript figures are also provided on Zenodo. If you have inquiries concerning the code and/or data, please reach out to the corresponding authors of the Fit4Function manuscript.
+Welcome to the Fit4Function repository, provided by Deverman Lab in conjunction with our study "Systematic Multi-Trait AAV Capsid Engineering for Efficient Gene Delivery" _Eid et al., Nature Communications_. This repository encompasses both experimental data and code essential for the replication, validation, and expansion of the Fit4Function study. Source data files necessary to reproduce the manuscript figures are also provided on Zenodo. If you have inquiries concerning the code and/or data, please reach out to the corresponding authors of the Fit4Function manuscript.
 
 ## Code
 

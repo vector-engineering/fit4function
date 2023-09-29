@@ -1,6 +1,8 @@
-# Fit4Function Repository
+# Fit4Function
 
-Welcome to the Fit4Function repository, provided by Deverman Lab in conjunction with our study "Systematic Multi-Trait AAV Capsid Engineering for Efficient Gene Delivery" _Eid et al., Nature Communications_. This repository encompasses both experimental data and code essential for the replication, validation, and expansion of the Fit4Function study. Source data files necessary to reproduce the manuscript figures are also provided on Zenodo. If you have inquiries concerning the code and/or data, please reach out to the corresponding authors of the Fit4Function manuscript.
+![Alt text](fit4function_header.png)
+
+Welcome to the Fit4Function repository, provided by Deverman Lab in conjunction with our study "Systematic Multi-Trait AAV Capsid Engineering for Efficient Gene Delivery" _Eid et al., Nature Communications_. This repository encompasses both experimental data and code essential for the replication, validation, and expansion of the Fit4Function study. Source data files necessary to reproduce the manuscript figures are also provided on Zenodo ([https://doi.org/10.5281/zenodo.8388031](https://doi.org/10.5281/zenodo.8388031)). If you have inquiries concerning the code and/or data, please reach out to the corresponding authors of the Fit4Function manuscript.
 
 ## Code
 
@@ -12,7 +14,7 @@ A python environment is included with the code, in `environment.yml`. To install
 
 Contained within this repository are trained machine learning models designed for a range of functional assays. The code necessary for training these models is provided within the accompanying Jupyter Notebooks.
 
-## Experimental Data
+## Data
 
 The repository contains various experimental data files essential for understanding and reproducing the study's results. The following datasets are included:
 
